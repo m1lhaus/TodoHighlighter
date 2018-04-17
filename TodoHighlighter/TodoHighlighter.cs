@@ -28,12 +28,12 @@ namespace TodoHighlighter
 
 			// Create the brushes and pens to color the box behind the keywords
 			keywordFormats.Add(
-				"TODO",
+				"FIXME",
 				new FormatInfo(
 					Color.FromArgb(0x40, 0xff, 0x10, 0x00),
 					Colors.Transparent));
 			keywordFormats.Add(
-				"DEBUG",
+				"TODO",
 				new FormatInfo(
 					Color.FromArgb(0x80, 0xff, 0xd0, 0x00),
 					Colors.Transparent));
