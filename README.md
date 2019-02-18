@@ -15,3 +15,7 @@ Forked from original Yves Goergen's project [TODO Highlighter](https://github.co
 - install Visual Studio SDK (VS 2015 offers instalation automatically)
 - adjust .Net frameword target version in solution properties
 - build
+
+## Download
+
+- check Releases tab
